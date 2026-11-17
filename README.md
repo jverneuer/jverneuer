@@ -10,7 +10,6 @@
 
 ### ⚡ GitHub stats
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jverneuer&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF5E9C&icon_color=B565F8&text_color=FFFFFF" height="165" />
   <img src="https://streak-stats.demolab.com?user=jverneuer&hide_border=true&background=0D1117&ring=FF5E9C&fire=B565F8&currStreakLabel=4BD6FF&sideLabels=FF5E9C&dates=8B95A5&currStreakNum=FFFFFF&sideNums=FFFFFF&totalStreakNum=FFFFFF" height="165" />
 </div>
 
