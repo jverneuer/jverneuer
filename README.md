@@ -8,30 +8,6 @@
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-### ⚡ GitHub stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=jverneuer&hide_border=true&background=0D1117&ring=FF5E9C&fire=B565F8&currStreakLabel=4BD6FF&sideLabels=FF5E9C&dates=8B95A5&currStreakNum=FFFFFF&sideNums=FFFFFF&totalStreakNum=FFFFFF" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jverneuer&bg_color=0D1117&color=B565F8&line=FF5E9C&point=4BD6FF&area=true&area_color=B565F8&hide_border=true" width="100%" />
-</div>
-
-![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-### 🛠 Tech stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,aws,lambda,dynamodb,docker,postgres,graphql,git,githubactions,vite" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jverneuer&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jverneuer&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jverneuer&theme=github_dark" />
-</div>
-
-![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
 <div align="center">
   <img src="https://img.shields.io/badge/%F0%9F%A6%84-certified%20unicorn-ff69b4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/%E2%9C%A8-believes%20in%20magic-B565F8?style=for-the-badge" />
